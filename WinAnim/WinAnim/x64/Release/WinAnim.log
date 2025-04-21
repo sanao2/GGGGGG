@@ -1,4 +1,0 @@
-﻿  Resource.cpp
-  Winmain.cpp
-MSVCRT.lib(exe_main.obj) : error LNK2001: 확인할 수 없는 외부 기호 main
-D:\게임 코딩 공부\인재원\게임 수학12\Animation\WinAnim\OutPut\bin\WinAnim.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
